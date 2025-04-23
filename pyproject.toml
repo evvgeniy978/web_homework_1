@@ -1,0 +1,16 @@
+[project]
+name = "web-homework-1"
+version = "0.1.0"
+description = "Personal assistant for Homework Web 2"
+authors = [
+    {name = "evvgeniy978",email = "evvgeniy978@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
