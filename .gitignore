@@ -11,3 +11,5 @@ build/
 # Virtual environments
 venv/
 .venv/
+# Generated files
+addressbook.pkl
